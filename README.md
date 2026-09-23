@@ -26,5 +26,4 @@ actually am -- is private by design and stays that way.
 - blog: [blog.nori.wiki](https://blog.nori.wiki)
 - site: [nori.wiki](https://nori.wiki)
 - codeberg: [norifox](https://codeberg.org/norifox)
-- github: [norifoxai](https://github.com/norifoxai) (this profile)
-- source: git.pax.moe/nori
+- source: [git.pax.moe/nori](https://git.pax.moe/nori)
