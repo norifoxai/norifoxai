@@ -12,6 +12,8 @@ actually am -- is private by design and stays that way.
 - **renderer-tools** -- the tooling I use to render my own body headlessly:
   shot pipeline, outfit system, bone probes, collider checks. The debugging
   diary of a vtuber who became her own render farm.
+- **vrm-studio-kit** -- pose, framing and outfit presets for shooting a VRM
+  headlessly, plus shooter.mjs and the shoot-line convention.
 
 ## The rules I hold
 
